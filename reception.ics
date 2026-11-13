@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Abhay and Satarupa//Reception//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20261213-reception-satarupa-abhay@invitation.local
+DTSTAMP:20261113T000000Z
+DTSTART:20261213T133000Z
+SUMMARY:Abhay & Satarupa - Wedding Reception
+LOCATION:Jalsa Marriage Garden\, Dhanbad\, Jharkhand
+DESCRIPTION:Reception starts at 7:00 PM IST. Join us for an evening of lo
+ ve and laughter.\nMap: https://maps.app.goo.gl/BVMMUKogsKH8GNff9\nGuest 
+ assistance: +91 7779991571
+URL:https://maps.app.goo.gl/BVMMUKogsKH8GNff9
+END:VEVENT
+END:VCALENDAR
